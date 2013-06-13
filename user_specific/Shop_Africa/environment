@@ -1,0 +1,5 @@
+export EDITOR=vim
+
+PS1="VAGRANT $PS1"
+
+cd ~/shop_africa_web
